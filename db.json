@@ -1,0 +1,189 @@
+{
+  "pieces": [
+    {
+      "id": 1,
+      "nom": "Ampoule LED",
+      "prix": 60,
+      "categorie": "Optiques",
+      "image": "images/ampoule-led.png",
+      "description": "Distance d’éclairage : 100 mètres !",
+      "disponibilite": true
+    },
+    {
+      "id": 2,
+      "nom": "Plaquettes de frein (x4)",
+      "prix": 40,
+      "categorie": "Freinage",
+      "image": "images/plaquettes-frein.png",
+      "description": "Une qualité de freinage optimale, par tous les temps",
+      "disponibilite": true
+    },
+    {
+      "id": 3,
+      "nom": "Ampoule boîte à gants",
+      "prix": 5.49,
+      "categorie": "Optiques",
+      "image": "images/ampoule-boite-a-gants.png",
+      "description": "Pour y voir clair dans l’habitacle",
+      "disponibilite": false
+    },
+    {
+      "id": 4,
+      "nom": "Liquide de frein",
+      "prix": 9.6,
+      "categorie": "Freinage",
+      "image": "images/liquide-frein.png",
+      "disponibilite": true
+    },
+    {
+      "id": 5,
+      "nom": "Balai d'essuie-glace",
+      "prix": 29.1,
+      "image": "images/balai-essuie-glace.png",
+      "description": "Performances d’essuyage au Top ! Longueur : 550 mm",
+      "disponibilite": true
+    }
+  ],
+  "avis": [
+    {
+      "id": 1,
+      "pieceId": 1,
+      "utilisateur": "Kristen Larson",
+      "commentaire": "Illum natus nisi aut modi dignissimos.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": 2,
+      "pieceId": 2,
+      "utilisateur": "Alberto Kessler",
+      "commentaire": "Aut facere ullam velit odio vero aut hic.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": 3,
+      "pieceId": 3,
+      "utilisateur": "Shane Powlowski",
+      "commentaire": "Sint enim nesciunt laboriosam iusto aut.",
+      "nbEtoiles": 3
+    },
+    {
+      "id": 4,
+      "pieceId": 4,
+      "utilisateur": "Grace Effertz",
+      "commentaire": "Et aut laborum voluptas culpa ut omnis vel.",
+      "nbEtoiles": 2
+    },
+    {
+      "id": 5,
+      "pieceId": 5,
+      "utilisateur": "Blanche Hane",
+      "commentaire": "Totam incidunt voluptatibus optio excepturi.",
+      "nbEtoiles": 3
+    },
+    {
+      "id": 6,
+      "pieceId": 1,
+      "utilisateur": "Catherine Kihn",
+      "commentaire": "Non laborum ex recusandae voluptatem laborum.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": 7,
+      "pieceId": 2,
+      "utilisateur": "Jimmie Pfannerstill",
+      "commentaire": "Enim aut id ab corporis aut et rem.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 8,
+      "pieceId": 3,
+      "utilisateur": "Ms. Lydia Grady",
+      "commentaire": "Ipsum officia asperiores necessitatibus id quo laborum.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": 9,
+      "pieceId": 4,
+      "utilisateur": "Cynthia Leuschke",
+      "commentaire": "Ea dolores sed aut.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 10,
+      "pieceId": 5,
+      "utilisateur": "Fannie Osinski DVM",
+      "commentaire": "Non sed est alias ex et omnis dolorum corrupti alias.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 11,
+      "pieceId": 1,
+      "utilisateur": "Melinda Bergstrom",
+      "commentaire": "Voluptas deserunt odit.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 12,
+      "pieceId": 2,
+      "utilisateur": "Glen Bauch DVM",
+      "commentaire": "Harum consequatur in ex est itaque maxime consequuntur.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": 13,
+      "pieceId": 3,
+      "utilisateur": "Melanie Fadel",
+      "commentaire": "Eos eum delectus sunt provident.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 14,
+      "pieceId": 4,
+      "utilisateur": "Amy Ernser",
+      "commentaire": "Sit enim velit esse dolor.",
+      "nbEtoiles": 1
+    },
+    {
+      "id": 15,
+      "pieceId": 5,
+      "utilisateur": "Toby Russel",
+      "commentaire": "Voluptate ex cum aut tenetur laborum est.",
+      "nbEtoiles": 3
+    },
+    {
+      "id": 16,
+      "pieceId": 1,
+      "utilisateur": "Frankie Ritchie",
+      "commentaire": "Dolore et explicabo et voluptas at aut saepe.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 17,
+      "pieceId": 2,
+      "utilisateur": "Priscilla Sporer",
+      "commentaire": "Enim quibusdam et ipsum voluptas est.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 18,
+      "pieceId": 3,
+      "utilisateur": "Adrian Cassin",
+      "commentaire": "Corrupti consequuntur deleniti voluptas eum officiis hic.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": 19,
+      "pieceId": 4,
+      "utilisateur": "Nicolas Lesch",
+      "commentaire": "Esse numquam consequatur et sunt.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": 20,
+      "pieceId": 5,
+      "utilisateur": "Hugo Block",
+      "commentaire": "Sint quidem quia ipsam quae.",
+      "nbEtoiles": 5
+    }
+  ]
+}
